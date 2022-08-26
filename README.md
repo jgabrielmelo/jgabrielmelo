@@ -21,8 +21,6 @@ Skills: Data Science | Machine Learning | Python | SQL
 <a href="https://medium.com/@jgabrielmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jgabrielmelo" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielmelo)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jgabrielmelo&show_icons=true)   
 
 ![Profile views](https://gpvc.arturio.dev/jgabrielmelo)  
