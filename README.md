@@ -17,8 +17,6 @@ Skills: Data Science | Machine Learning | Python | SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jgabrielmelo&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jgabrielmelo)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jgabrielmelo)  
 
 ![Profile views](https://gpvc.arturio.dev/jgabrielmelo)  
