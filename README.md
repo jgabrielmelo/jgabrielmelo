@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **jgabriel_melo@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jgabrielmelo/](https://www.linkedin.com/in/jgabrielmelo/)
-
 - ⚡ Fun fact **I think I am going to teach my parrot to code, what could go wrong?**
 
 <h3 align="left">Connect with me:</h3>
