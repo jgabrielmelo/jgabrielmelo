@@ -1,16 +1,15 @@
 <h1 align="center">Olá 👋, eu sou João Gabriel!</h1>
-<h3 align="center">I am an Industrial Engineer and Full-Stack Software Developer! I made this profile as a portfolio to showcase my projects with Java, Springboot and Angular.</h3>
+<h3 align="center">I am an Industrial Engineer and Full-Stack Software Developer! I made this profile as a portfolio to showcase my projects with Java, Spring Boot and Angular for Full-Stack development or Flutter for Mobile/multi-platform development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgabrielmelo&label=Profile%20views&color=0e75b6&style=flat" alt="jgabrielmelo" /> </p>
 
 - 🔭 I’m currently working at Tribunal Regional Federal da 5ª Região - TRF5 as a Resident in Software Developer. 
-- Check it out the project: [BuscaJUD](https://buscajud.hml.jfse.jus.br)
+- Check it out the projects I'm working with: [BuscaJUD](https://buscajud.hml.jfse.jus.br); [PJe2 Mobile](https://residenciaregional.jfrn.jus.br/index.php/pje2-mobile/)
 
-- 💬 Ask me about **Java, Springboot and Angular**
+- 💬 Ask me about **Java, Spring Boot and Angular for Fullstack development or Flutter for mobile/multi-platform development**
 
 - 📫 How to reach me **jgabriel_melo@hotmail.com**
 
-- ⚡ Fun fact **I think I am going to teach my parrot to code, what could go wrong?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
